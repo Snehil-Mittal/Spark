@@ -1,0 +1,29 @@
+.work
+{
+  background-color: #1e1c27;
+  color: white;
+}
+
+.meas{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.sty{
+    margin: 15px;
+    padding: 12px 10px 10px 10px;
+    background-color:black;
+    color: white;
+    border-radius: 20px;
+}
+.footer{
+    margin-top: 0px;
+    background-color: #1e1c27 ;
+    height:  50px;
+  }
+       
+  .card-body p
+  {   padding: 10px 3px 8px 3px;
+      text-align: justify;
+  }

@@ -1,0 +1,19 @@
+.work
+{
+  background-color: #1e1c27;
+  color: white;
+}
+.container
+{  
+  padding-top: 30px;
+}
+
+.footer{
+    background-color: #1e1c27 ;
+    height: 50px;
+}
+
+.card-body p
+{   padding: 10px 3px 5px 3px;
+    text-align: justify;
+}
