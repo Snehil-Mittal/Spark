@@ -3,27 +3,25 @@ a
     color: white;
 }
 
-
-
-
-
 .header{
     background-image: url('../img/homeimg/image6.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
+    padding-bottom: 10px;
     }
     .topic h1{
         font-family: 'Metal Mania', cursive;
         color: white;
         font-size: 100px;
-        padding-top: 50px;
-        padding-left: 50px;
+        padding-top: 60px;
+        padding-left: 60px;
     }
     .topic h3{
         font-family: 'Libre Baskerville', serif;
         color: white;
         font-size: 30px;
+        padding-left:30px;
     }
 
 
@@ -85,4 +83,44 @@ a
     background-color: #1e1c27 ;
     height:  50px;
   }
-       
+  .des{
+
+    border: 3px solid white;
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.des img{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    width: 450px;
+    height: 510px;
+}     
+.des p 
+{
+    padding: 30px;
+    
+}  
+.imags{
+    width: 1000px;
+    height: 500px;
+    margin-left: 200px;
+    
+}
+.tex{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 100px;
+    color: white;
+    -webkit-text-stroke-width: 2px; 
+            -webkit-text-stroke-color: black; 
+        } 
+
+.bg{
+    background-color: black;
+    color: white;
+}

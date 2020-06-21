@@ -17,3 +17,20 @@
 {   padding: 10px 3px 5px 3px;
     text-align: justify;
 }
+.disp{
+  display: flex;
+  flex-direction: column;
+}
+.disp input{
+    margin-bottom: 6px;
+    border-radius: 5px;
+    
+}
+.flo{
+  display: flex;
+  flex-direction: row;
+}
+label{
+  padding: 5px;
+  margin: 5px;
+}
