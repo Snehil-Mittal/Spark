@@ -336,3 +336,6 @@ body {
 .navbar-brand:hover {
 	color: rgba(255, 255, 255, 1);
 }
+.nav-item {
+	padding-right: 15px;
+}
