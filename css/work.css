@@ -1,40 +1,55 @@
-.work
-{
-  background-color: #1e1c27;
-  color: white;
-}
-.container
-{  
-  padding-top: 30px;
+body {
+	background-image: url('../img/homeimg/Back.jpg');
+	background-size: cover;
 }
 
-.footer{
-    background-color: #1e1c27 ;
-    height: 50px;
+.work {
+	background-color: #1e1c27;
+	color: white;
+}
+.container {
+	padding-top: 30px;
 }
 
-.card-body p
-{   padding: 10px 3px 5px 3px;
-    text-align: justify;
+.footer {
+	background-color: #1e1c27;
+	height: 50px;
 }
-.disp{
-  display: flex;
-  flex-direction: column;
+
+.card-body p {
+	padding: 10px 3px 5px 3px;
+	text-align: justify;
 }
-.disp input{
-    margin-bottom: 6px;
-    border-radius: 5px;
-    
+.imag {
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	margin-top: 20px;
 }
-.flo{
-  display: flex;
-  flex-direction: row;
+
+.card {
+	background-color: rgb(46, 12, 12);
+	color: white;
+	height: 600px;
+	padding: auto;
 }
-label{
-  padding: 5px;
-  margin: 5px;
+.disp {
+	display: flex;
+	flex-direction: column;
+	color: black;
 }
-.black
-{
-  background-color: black;
+.modal-title{
+	color: black;
+}
+.disp input {
+	margin-bottom: 6px;
+	border-radius: 5px;
+}
+.flo {
+	display: flex;
+	flex-direction: row;
+}
+label {
+	padding: 5px;
+	margin: 5px;
 }

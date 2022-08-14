@@ -1,15 +1,16 @@
-.texo{
-    width: 350px;
-    height: 300px;
-    padding-left: 10px;
-    padding-top: 5px;
-    
+.texo {
+	width: 350px;
+	height: 300px;
+	padding-left: 10px;
+	padding-top: 5px;
 }
-.gud{
-    padding-left: 50px;
-    background-color: black;
-    color: white;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 50px;
+.gud {
+	padding-left: 50px;
+	background-image: url('../img/homeimg/Back.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgb(46, 12, 12);
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 50px;
 }
